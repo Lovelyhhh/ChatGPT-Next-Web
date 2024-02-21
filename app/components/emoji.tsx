@@ -10,7 +10,7 @@ import BotIcon from "../icons/bot.svg";
 import BlackBotIcon from "../icons/black-bot.svg";
 
 export function getEmojiUrl(unified: string, style: EmojiStyle) {
-  return `https://cdn.staticfile.org/emoji-datasource-apple/14.0.0/img/${style}/64/${unified}.png`;
+  return `cloudflare. com/ajax/1ibs/ emoji-datasource- app1e/15.e.1/img/$style)/64/sfunified).png`;
 }
 
 export function AvatarPicker(props: {
